@@ -13,7 +13,10 @@ I'm Enrico, a software engineer and undergraduate Business Information Systems a
     <div>
       <h4>Connect with Me</h4>
       <a href="https://www.linkedin.com/in/enricoadi/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
+      </a>
+      <a href="https://leetcode.com/enricoadi49">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode Badge" width="30" />
       </a>
     </div>
   </div>
