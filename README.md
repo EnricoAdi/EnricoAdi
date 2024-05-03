@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋! 
+I'm Enrico, a software engineer and undergraduate Business Information Systems at ISTTS. I'm passionate about leveraging technology to solve problems, particularly through web and mobile development. I thrive in collaborative environments and enjoy optimizing projects for efficiency. This repository showcases my work and explores my interests in these areas.
 
 <div style="display: flex">
   <div>
