@@ -8,7 +8,7 @@ I'm Enrico, a software engineer and undergraduate Business Information Systems a
   <div>
     <div>
       <h4>Languages and Tools</h4>
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,laravel,kotlin,nodejs,redis&theme=light">
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,nestjs,react,laravel,kotlin,nodejs,redis&theme=light">
     </div>
     <div>
       <h4>Connect with Me</h4>
