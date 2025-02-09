@@ -4,7 +4,7 @@ I'm Enrico, a software engineer and fresh graduate Business Information Systems 
 <img src="https://github-readme-stats-rho-green-76.vercel.app/api/top-langs?username=EnricoAdi&show_icons=true&locale=en&layout=donut" alt="EnricoAdi" /> 
 
 <h4>Languages and Tools</h4>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,nextjs,nestjs,react,laravel,kotlin,nodejs,redis&theme=light">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,nextjs,nestjs,react,laravel,kotlin,nodejs,redis,docker&theme=light">
  
 <div>
   <h4>Connect with Me</h4>
