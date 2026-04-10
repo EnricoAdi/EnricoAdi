@@ -1,7 +1,5 @@
 ### Hi there 👋! 
 I'm Enrico, a software engineer and Business Information Systems graduate. I'm passionate about leveraging technology to solve problems, particularly through software engineering as well as no-code approaches. I thrive in collaborative environments and enjoy optimizing projects for efficiency. This repository showcases my work and explores my interests in these areas.
- 
-<img src="https://github-readme-stats-rho-green-76.vercel.app/api/top-langs?username=EnricoAdi&show_icons=true&locale=en&layout=donut" alt="EnricoAdi" /> 
 
 <h4>Languages and Tools</h4>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nextjs,nestjs,react,laravel,kotlin,nodejs,redis,docker,kubernetes,wordpress&theme=light">
