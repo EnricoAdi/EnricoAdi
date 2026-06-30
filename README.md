@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-enricoadi.github.io-E53935?style=for-the-badge&logoColor=white)](https://enricoadi.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-enricoadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricoadi/) [![Instagram](https://img.shields.io/badge/Instagram-@enricoadi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enricoadi_/) [![Email](https://img.shields.io/badge/Email-enricoadi49@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricoadi49@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-enricoadi.com-E53935?style=for-the-badge&logoColor=white)](https://www.enricoadi.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-enricoadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricoadi/) [![Instagram](https://img.shields.io/badge/Instagram-@enricoadi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enricoadi_/) [![Email](https://img.shields.io/badge/Email-enricoadi49@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricoadi49@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@
 💼 Role          → IT Consultant & Software Engineer
 🌏 Market        → Indonesia (Primary) · International (Open)
 📬 Contact       → enricoadi49@gmail.com
-🌐 Website       → https://enricoadi.github.io/
+🌐 Website       → https://www.enricoadi.com/
 ⚡ Availability  → Open for freelance & consulting inquiries
 ```
 
@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### [Sumber Rejeki POS](https://enricoadi.github.io/#portfolio)
+### [Sumber Rejeki POS](https://www.enricoadi.com/#portfolio)
 
 > **Next.js · Hybrid Deployment**
 
@@ -103,12 +103,12 @@ Freelance project for a Surabaya-based educational course provider. Student-focu
 
 ## 📝 Latest Blog Posts
 
-<!-- These are manually updated — check enricoadi.github.io for the latest -->
+<!-- These are manually updated — check enricoadi.com for the latest -->
 
-- 🤖 [**AI Agents — CLI vs IDE: It's a Workflow Comparison**](https://enricoadi.github.io/?view=post&article=ai-agents-cli-vs-ide) — Exploring how experienced engineers combine IDE pair programming with CLI agents for maximum productivity
-- 💰 [**GitHub Copilot Price Change — What It Means for Developers**](https://enricoadi.github.io/?view=post&article=github-copilot-price-change) — How usage-based billing and ecosystem lock-in are reshaping AI developer tooling
+- 🤖 [**AI Agents — CLI vs IDE: It's a Workflow Comparison**](https://www.enricoadi.com/?view=post&article=ai-agents-cli-vs-ide) — Exploring how experienced engineers combine IDE pair programming with CLI agents for maximum productivity
+- 💰 [**GitHub Copilot Price Change — What It Means for Developers**](https://www.enricoadi.com/?view=post&article=github-copilot-price-change) — How usage-based billing and ecosystem lock-in are reshaping AI developer tooling
 
-> ✍️ [Read all posts on my portfolio →](https://enricoadi.github.io/?view=blogs)
+> ✍️ [Read all posts on my portfolio →](https://www.enricoadi.com/?view=blogs)
 
 ---
 
@@ -118,7 +118,7 @@ I'm open to **freelance projects**, **consulting engagements**, and **full-time 
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Get_In_Touch-E53935?style=for-the-badge)](mailto:enricoadi49@gmail.com) [![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-enricoadi.github.io-1a1a2e?style=for-the-badge)](https://enricoadi.github.io/)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Get_In_Touch-E53935?style=for-the-badge)](mailto:enricoadi49@gmail.com) [![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-enricoadi.com-1a1a2e?style=for-the-badge)](https://www.enricoadi.com/)
 
 </div>
 
